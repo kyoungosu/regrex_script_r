@@ -38,3 +38,42 @@ TermSocket.open: Opened 3
 [I 15:57:34.108 NotebookApp] Saving file at /README.md
 [I 16:27:22.698 NotebookApp] Saving file at /binder/environment.yml
 [I 16:28:04.148 NotebookApp] Saving file at /binder/environment.yml
+[I 16:42:04.493 NotebookApp] Writing notebook server cookie secret to /home/jovyan/.local/share/jupyter/runtime/notebook_cookie_secret
+[W 2021-06-29 16:42:06.122 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-06-29 16:42:06.123 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-06-29 16:42:06.123 LabApp] 'base_url' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-06-29 16:42:06.124 LabApp] 'token' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-06-29 16:42:06.124 LabApp] 'trust_xheaders' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-06-29 16:42:06.124 LabApp] 'allow_origin' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-06-29 16:42:06.124 LabApp] 'allow_origin_pat' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-06-29 16:42:06.124 LabApp] 'extra_template_paths' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2021-06-29 16:42:06.124 LabApp] 'jinja_template_vars' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2021-06-29 16:42:06.124 LabApp] 'shutdown_no_activity_timeout' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-06-29 16:42:06.124 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2021-06-29 16:42:06.124 LabApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2021-06-29 16:42:06.135 LabApp] JupyterLab extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/jupyterlab
+[I 2021-06-29 16:42:06.135 LabApp] JupyterLab application directory is /srv/conda/envs/notebook/share/jupyter/lab
+[I 16:42:06.143 NotebookApp] nteract extension loaded from /srv/conda/envs/notebook/lib/python3.7/site-packages/nteract_on_jupyter
+[I 16:42:06.146 NotebookApp] Will shut down after 600 seconds with no kernels or terminals.
+[I 16:42:06.147 NotebookApp] Serving notebooks from local directory: /home/jovyan
+[I 16:42:06.147 NotebookApp] Jupyter Notebook 6.2.0 is running at:
+[I 16:42:06.147 NotebookApp] http://jupyter-kyoungosu-2dregex1-2d9r8omhxu:8888/user/kyoungosu-regex1-9r8omhxu/?token=...
+[I 16:42:06.147 NotebookApp]  or http://127.0.0.1:8888/user/kyoungosu-regex1-9r8omhxu/?token=...
+[I 16:42:06.147 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 16:42:06.153 NotebookApp] No web browser found: could not locate runnable browser.
+[I 16:42:07.683 NotebookApp] 302 GET /user/kyoungosu-regex1-9r8omhxu/ (10.0.5.20) 1.150000ms
+[I 16:42:15.235 NotebookApp] 302 GET /user/kyoungosu-regex1-9r8omhxu/?token=I5K35mbsS7u4Q95WPLu49g (68.229.104.54) 0.910000ms
+[I 16:42:36.375 NotebookApp] New terminal with automatic name: 1
+TermSocket.open: 1
+TermSocket.open: Opened 1
+[I 16:43:07.619 NotebookApp] Creating new file in 
+[I 16:43:26.783 NotebookApp] Saving file at /untitled.txt
+[I 16:45:52.497 NotebookApp] Saving file at /gitignore
+[I 16:49:49.881 NotebookApp] Creating new notebook in 
+[I 16:49:49.895 NotebookApp] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[I 16:49:52.730 NotebookApp] Kernel started: 025eee36-b9c2-4b21-b8d2-4e3e6de7e17c, name: python3
+[I 16:49:52.730 NotebookApp] Culling kernels with idle durations > 600 seconds at 60 second intervals ...
+[I 16:49:52.731 NotebookApp] Culling kernels even with connected clients
+[I 16:50:11.209 NotebookApp] Saving file at /Untitled.ipynb
+[W 16:50:11.330 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 16:51:35.214 NotebookApp] Uploading file to /hello_world_py.html
