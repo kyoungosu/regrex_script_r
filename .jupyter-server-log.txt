@@ -36,3 +36,5 @@ Websocket closed
 TermSocket.open: 3
 TermSocket.open: Opened 3
 [I 15:57:34.108 NotebookApp] Saving file at /README.md
+[I 16:27:22.698 NotebookApp] Saving file at /binder/environment.yml
+[I 16:28:04.148 NotebookApp] Saving file at /binder/environment.yml
