@@ -121,3 +121,28 @@ TermSocket.open: Opened 1
 [I 15:51:33.998 NotebookApp] Saving file at /Untitled1.ipynb
 [W 15:51:41.995 NotebookApp] Culling 'idle' kernel 'ir' (2cc5ae48-5dc1-48ff-bb67-72a2a925af5e) with 0 connections due to 637 seconds of inactivity.
 [I 15:51:41.996 NotebookApp] Kernel shutdown: 2cc5ae48-5dc1-48ff-bb67-72a2a925af5e
+[W 15:55:17.892 NotebookApp] 404 GET /user/kyoungosu-regex1-14ptvssc/api/contents/linearModel_python.ipynb?type=notebook&content=0&_=1625154091582 (24.142.141.179): No such file or directory: linearModel_python.ipynb
+[W 15:55:17.893 NotebookApp] No such file or directory: linearModel_python.ipynb
+[W 15:55:17.893 NotebookApp] 404 GET /user/kyoungosu-regex1-14ptvssc/api/contents/linearModel_python.ipynb?type=notebook&content=0&_=1625154091582 (24.142.141.179) 2.000000ms referer=https://hub.gke2.mybinder.org/user/kyoungosu-regex1-14ptvssc/notebooks/Untitled1.ipynb?kernel_name=python3
+[I 15:55:17.931 NotebookApp] Uploading file to /linearModel_python.ipynb
+[I 15:57:33.359 NotebookApp] Saving file at /linearModel_python.ipynb
+[I 15:59:01.155 NotebookApp] Saving file at /linearModel_python.ipynb
+[I 16:01:33.094 NotebookApp] Saving file at /linearModel_python.ipynb
+[I 16:03:33.149 NotebookApp] Saving file at /linearModel_python.ipynb
+[I 16:05:33.115 NotebookApp] Saving file at /linearModel_python.ipynb
+[I 16:07:33.220 NotebookApp] Saving file at /linearModel_python.ipynb
+[I 16:11:33.146 NotebookApp] Saving file at /linearModel_python.ipynb
+[I 16:13:33.442 NotebookApp] Saving file at /linearModel_python.ipynb
+[I 16:15:33.434 NotebookApp] Saving file at /linearModel_python.ipynb
+[I 16:17:33.229 NotebookApp] Saving file at /linearModel_python.ipynb
+[I 16:19:33.407 NotebookApp] Saving file at /linearModel_python.ipynb
+[I 16:21:33.179 NotebookApp] Saving file at /linearModel_python.ipynb
+[I 16:23:33.231 NotebookApp] Saving file at /linearModel_python.ipynb
+[I 16:23:35.439 NotebookApp] Saving file at /linearModel_python.ipynb
+[I 16:25:33.217 NotebookApp] Saving file at /linearModel_python.ipynb
+[I 16:25:39.385 NotebookApp] Saving file at /linearModel_python.ipynb
+[W 16:26:16.798 NotebookApp] Notebook linearModel_python.ipynb is not trusted
+[I 16:27:09.655 NotebookApp] Uploading file to /linearModel_python.html
+[W 16:27:18.244 NotebookApp] delete /Untitled.ipynb
+[W 16:27:18.247 NotebookApp] delete /Untitled1.ipynb
+[W 16:28:19.389 NotebookApp] Notebook linearModel_python.ipynb is not trusted
