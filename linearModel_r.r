@@ -1,19 +1,19 @@
 library(ggplot2)
 
-#args <- commandArgs(trailingOnly = TRUE)
+args <- commandArgs(trailingOnly = TRUE)
 
-#data = read.csv(args[1])
+read.csv(args[1])
 
-data = read.csv("regrex1.csv")
+regrex1 = read.csv(args[1])
 
 png("r_orig.png")
-r_orig = ggplot(data, aes(x = x, y = y)) +
+r_orig = ggplot(regrex1, aes(x = x, y = y)) +
             geom_point()
 r_orig
 dev.off()
 
 png("r_lm.png") #open device called png
-r_lm = ggplot(data, aes(x = x, y = y)) +
+r_lm = ggplot(regrex1, aes(x = x, y = y)) +
             geom_point() +
             geom_smooth(method = "lm", se = FALSE)
 r_orig
