@@ -298,3 +298,4 @@ TermSocket.open: Opened 1
 TermSocket.open: 1
 TermSocket.open: Opened 1
 [I 18:43:35.019 NotebookApp] Saving file at /linearModel_r.r
+[I 18:45:35.870 NotebookApp] Saving file at /linearModel_r.r

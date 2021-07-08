@@ -1,12 +1,12 @@
 library(ggplot2)
 
-#args <- commandArgs(trailingOnly = TRUE)
+args <- commandArgs(trailingOnly = TRUE)
 
-#read.csv(args[1])
+read.csv(args[1])
 
-#regrex1 = read.csv(args[1])
+regrex1 = read.csv(args[1])
 
-regrex1 = read.csv("regrex1.csv")
+#regrex1 = read.csv("regrex1.csv")
 
 png("r_orig.png")
 r_orig = ggplot(regrex1, aes(x = x, y = y)) +
