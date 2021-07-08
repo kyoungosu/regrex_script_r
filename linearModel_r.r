@@ -1,17 +1,16 @@
 library(ggplot2)
 
-data = read.csv("regrex1.csv")
+args <- commandArgs(trailingOnly = TRUE)
 
-png("scatter.png")
+data = read.csv(args[1])
+
+png("r_orig.png")
 scatter = ggplot(data, aes(x = x, y = y)) +
             geom_point()
-scatter
 dev.off()
 
-png("linreg.png") #open device called png
+png("r_lm.png") #open device called png
 linreg = ggplot(data, aes(x = x, y = y)) +
             geom_point() +
             geom_smooth(method = "lm", se = FALSE)
-linreg
 dev.off()
-
